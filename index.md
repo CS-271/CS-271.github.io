@@ -6,75 +6,61 @@ order: 1
 ---
 
 
-Welcome to CS 271!
+#Welcome to CS 271!
+
+###Course Information
+**Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
+**Term:** 2019 Spring  
+**Meeting Time:** Mo./We. 1:30-2:45pm  
+**Location:** MD 119  
+**Instructor:** Johanna Beyer  
+**Recommended Preparation:** CS 171, CS 179, CS 279, or some data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
+**Office Hours:** W. 1pm, Maxwell-Dworkin, Room 211
+
+###Course Description
+This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include: interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
+Students will work on a semester-long visualization project that will allow them to visualize their own data sets. We will employ peer-feedback and formal design critiques to analyze each other's work.
+
+
+###Learning Outcomes
+
+After completion of the course you will be able to:
+
+- Read, understand, and disseminate current visualization research in the context of prior research in visualization
+- Analyze and present visualization research papers to a computer science/engineering audience
+- Critically evaluate visualizations and suggest improvements and refinements
+- Create a stand-alone visualization project, building on previous work and insights gained in visualization research over the last decades
+- Write a short research paper about your own visualization project
+
+###Course Structure
+Classes will meet twice a week for in-class discussion of assigned reading, group-based work (e.g., design critiques), and project feedback. Students will take turns presenting papers and leading class discussion. 
+Active participation and preparation for class is expected and will contribute to your final grade.
+Each student is expected to work on a semester-long visualization project that will be defined within the first two weeks of class. Students will disseminate the results of their semester project in a short visualization research paper.
+
+###Course Policies
+**Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. You are allowed two excused absences per semester; thereafter you will not receive credit for the attended class. To receive credit for attendance, you must arrive on time.  
+**Active participation is expected!** Active participation and preparation for class are expected and will contribute to your final grade.  
+**No open laptops!** We only allow device usage during activities that require devices. At all other times, you should not be using your device.
+
+###Grading
+Your course grade will be based on your semester project (30%), visualization paper (20%) and preparation for and participation in class (50%). This includes class participation, teamwork, adherence to deadlines, collaboration acknowledgements, timely arrival to your class, etc.
+
+###Academic Integrity
+We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
+
+You may discuss your project and homework with other people, but you are expected to be intellectually honest and give credit where credit is due. 
+You may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers. 
+
+
+###Diversity and Inclusion
+I will work to create a learning environment in our class that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, etc. 
+I ask that you engage in discussion with care and empathy for the other members in the classroom. Aim to disagree without becoming disagreeable. If something was said in class that made you feel uncomfortable, please talk to me about it. 
+
+
+###Accommodations for students with disabilities
+Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the Accessible Education Office (AEO) and speak with the professor by the end of the second week of the term. Failure to do so may result in the instructor’s inability to respond in a timely manner. All discussions will remain confidential, although Faculty are invited to contact AEO to discuss appropriate implementation
+
 
 <!--
-The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to visual representation methods and techniques that increase the understanding of complex data. Good visualizations not only present a visual interpretation of data, but do so by improving comprehension, communication, and decision making.
 
-In this course you will learn how the human visual system processes and perceives images, good design practices for visualization, methods for visualization of data from a variety of fields, and programming of interactive web-based visualizations using [D3](http://d3js.org/). 
-
-This website is for both the Harvard college CS 171 course and the Harvard Extension School CSCI E-171 course.
-
-**Limited enrollment:** To provide the best possible learning experience this course has limited enrollment. We only admit 80 college students and 30 Extension school students.  
-*College students:* If you are interested in joining this course please fill out a enrollment survey. **The enrollment survey will be available after the first lecture (Sept 5th, 5:00pm) until Sunday Sept 9th, midnight.** The survey is available on our Canvas page.  
-*DCE students:* Course enrollment is on a first-come, first-serve basis.
-
-**Cross-registering college students:** To get access to the course's Canvas page you will have to 1) get an XID [here](http://xid.harvard.edu/); 2) send an e-mail to staff@cs171.org with the subject 'Canvas ID'; 3) the e-mail needs to contain your Name, e-mail and XID.
-
-**Extension school students:** The course will be taught in two sessions per week. Each class will be a combination of instructor presentation and active learning. In an active learning session, students will meet, virtually, in small groups (4-5 students each) using Web conferencing software to work on problems collaboratively. A member of the course staff will visit each group (virtually) to provide assistance and coaching. Because of the importance of the collaborative, active learning component of the course, **DCE students must be available online at these times: Mo and Th, 7:55-9:55pm**. The presentation segment of each on-campus class will be videorecorded and streamed during those virtual class times.
-
-
-
-### Instructor and Head TF
-
-[Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Instructor)  
-Johanna Beyer (Head TF)
-
-
-### Course Sessions
-
-**Lectures & Labs:**   
-Monday and Wednesday 3:00-5:00pm, Location: [Pierce 301](https://www.google.com/maps/place/Pierce+Hall/@42.3780874,-71.1192954,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3774113de44af:0x5966efcfd3aa5965!8m2!3d42.3780874!4d-71.1171014?hl=en)  
-*DCE students:* Monday and Thursday 7:55-9:55pm, online video conference.
-
-**Office Hours:**  
-Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
-
-**Lecture Resources:**  
-Discussion forum on [Piazza](https://piazza.com/harvard/fall2018/cs171)  
-Materials and grades on [Canvas](https://canvas.harvard.edu/courses/42421)
-
-
-### Teaching Fellows
-
-* Michael Behrisch - Postdoctoral Fellow, Visual Computing Group 
-* Luke Civantos - Undergraduate
-* *Extension School TF:* Felix Gonda - PhD Candidate, Visual Computing Group
-* Katherine Harrison - Undergraduate
-* *Extension School TF:* Alain Ibrahim - Digital Product Development Manager
-* Rachel Kang - A. B. Candidate in Computer Science, Class of 2020
-* Nam Wook Kim - PhD Candidate, Visual Computing Group
-* Robert Krueger - Postdoctoral Fellow, Visual Computing Group
-* Celina Qi - Undergraduate
-
-
-
-
-### Previous Years
-
-[2017 Fall Website](http://www.cs171.org/2017/)
-
-[2016 Fall Website](http://www.cs171.org/2016/) 
-
-[2016 Spring Website](http://www.cs171.org/2016_Spring/) 
-
-[2015 Website](http://www.cs171.org/2015/) 
-[2015 Video Archive](http://cm.dce.harvard.edu/2015/02/24028/publicationListing.shtml)
-
-[2014 Website](http://www.cs171.org/2014/) 
-[2014 Video Archive](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)  
-
-[2013 Video Archive](http://cm.dce.harvard.edu/2013/02/22872/publicationListing.shtml)
-
-[2012 Video Archive](http://cm.dce.harvard.edu/2012/02/22872/publicationListing.shtml)
 -->
