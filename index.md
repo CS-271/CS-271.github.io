@@ -6,17 +6,14 @@ order: 1
 ---
 
 
-# Welcome to CS 271!
-
-
-### Course Information
+### Course Information CS 271
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
 **Term:** 2019 Spring  
-**Meeting Time:** Mo./We. 1:30-2:45pm  
+**Meeting Time:** Mon/Wed 1:30-2:45pm  
 **Location:** MD 119  
 **Instructor:** Johanna Beyer  
 **Recommended Preparation:** CS 171, CS 179, CS 279, or some data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
-**Office Hours:** W. 1pm, Maxwell-Dworkin, Room 211
+**Office Hours:** Wed 3pm, Maxwell-Dworkin, Room 211
 
 ### Course Description
 This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include: interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
