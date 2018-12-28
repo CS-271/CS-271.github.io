@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS271 - Topics in Data Visualization
+title: CS 271 - Topics in Data Visualization
 menu: Home
 order: 1
 ---
