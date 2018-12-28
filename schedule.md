@@ -2,7 +2,7 @@
 layout: schedule
 title: Schedule
 permalink: /schedule/
-order: 3
+order: 2
 menu: Schedule
 ---
 
