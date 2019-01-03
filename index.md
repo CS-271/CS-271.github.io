@@ -6,7 +6,7 @@ order: 1
 ---
 
 
-### Course Information CS 271
+### Course Information
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
 **Term:** 2019 Spring  
 **Meeting Time:** Mon/Wed 1:30-2:45pm  
@@ -17,7 +17,7 @@ order: 1
 
 ### Course Description
 This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include: interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
-Students will work on a semester-long visualization project that will allow them to visualize their own data sets. We will employ peer-feedback and formal design critiques to analyze each other's work.
+Students will work on a semester-long visualization project that will allow them to visualize their own data sets. We will take a structured approach on how to read, analyze, present, and discuss research topics. Furthermore, we will employ peer-feedback and formal design critiques to analyze each other's work.
 
 
 ### Learning Outcomes
@@ -25,7 +25,7 @@ Students will work on a semester-long visualization project that will allow them
 After completion of the course you will be able to:
 
 - Read, understand, and disseminate current visualization research in the context of prior research in visualization
-- Analyze and present visualization research papers to a computer science/engineering audience
+- Analyze, discuss, and present visualization research papers to a computer science/engineering audience
 - Critically evaluate visualizations and suggest improvements and refinements
 - Create a stand-alone visualization project, building on previous work and insights gained in visualization research over the last decades
 - Write a short research paper about your own visualization project
