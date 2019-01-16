@@ -12,8 +12,10 @@ order: 1
 **Meeting Time:** Mon/Wed 1:30-2:45pm  
 **Location:** MD 119  
 **Instructor:** Johanna Beyer  
+(pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Recommended Preparation:** CS 171, CS 179, CS 279, or some data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
 **Office Hours:** Wed 3pm, Maxwell-Dworkin, Room 211
+
 
 ### Course Description
 This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include: interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
@@ -35,8 +37,11 @@ Classes will meet twice a week for in-class discussion of assigned reading, grou
 Active participation and preparation for class is expected and will contribute to your final grade.
 Each student is expected to work on a semester-long visualization project that will be defined within the first two weeks of class. Students will disseminate the results of their semester project in a short visualization research paper.
 
+### Required Reading
+We will be using Tamara Munzner's book 'Visualization Analysis & Design' in this course. You can access the online version of the book via HOLLIS [here](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=01HVD_ALMA512241559820003941&context=L&vid=HVD2&search_scope=everything&tab=everything&lang=en_US).
+
 ### Course Policies
-**Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. You are allowed two excused absences per semester; thereafter you will not receive credit for the attended class. To receive credit for attendance, you must arrive on time.  
+**Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. Keep in mind that since our class is heavily based on interactive discussions, it is not just you who misses the discussed material, but you also negatively influence the learning outcome of your peers! You are allowed two excused absences per semester. To receive credit for attendance, you must arrive on time.  
 **Active participation is expected!** Active participation and preparation for class are expected and will contribute to your final grade.  
 **No open laptops!** We only allow device usage during activities that require devices. At all other times, you should not be using your device.
 
@@ -52,7 +57,7 @@ You may use third-party libraries and example code, so long as the material is a
 
 ### Diversity and Inclusion
 I will work to create a learning environment in our class that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, etc. 
-I ask that you engage in discussion with care and empathy for the other members in the classroom. Aim to disagree without becoming disagreeable. If something was said in class that made you feel uncomfortable, please talk to me about it. 
+I ask that you engage in discussion with care and empathy for the other members in the classroom. Treat others how you would like to be treated. Aim to disagree without becoming disagreeable. If something was said in class that made you feel uncomfortable, please talk to me about it. 
 
 
 ### Accommodations for students with disabilities
