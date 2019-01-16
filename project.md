@@ -43,7 +43,7 @@ Deliverables:
 ### Expectations:
 Your final project should be your honest attempt at doing visualization research. Below you can find some guidelines for each of the deliverables in your project.
 
-**Project notebook:** We want you to document all the steps you take in your project. This notebook is mainly meant for yourselves to take notes on meetings, document your ideas, brainstorm about different options, and jot down visualization sketches, etc. Here is an [example of a project notebook](/material/BechdelTest_ProcessBook.pdf).
+**Project notebook:** We want you to document all the steps you take in your project. This notebook is mainly meant for yourselves to take notes on meetings, document your ideas, brainstorm about different options, and jot down visualization sketches, etc. Here is an [example of a project notebook](/assets/material/BechdelTest_ProcessBook.pdf).
 
 **Project proposal:** Your project proposal should be an introduction to your project topic. You can attach it directly to your project notebook (3-5 pages). Please make sure that the proposal covers the project idea, project goal, motivation, a data description and where you will get the data (if appropriate). You can also include your first ideas of how to approach the topic of your choice. 
 
