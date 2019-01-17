@@ -12,6 +12,8 @@ During most class meetings we will discuss visualization research papers. You wi
 
 What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
 
+The Harvard library provides a way to [get access to an article behind a paywall](https://library.harvard.edu/services-tools/check-harvard-library-bookmark).
+
 
 ### Expectations:
 Here are some guidelines about what we will expect from you in this class:
