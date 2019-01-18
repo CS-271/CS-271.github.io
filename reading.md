@@ -8,7 +8,7 @@ order: 3
 
 
 ### Paper reading and discussion:
-During most class meetings we will discuss visualization research papers. You will have (1) read and provided (2) written feedback on the papers prior to class so that we can have an engaged discussion during class. 
+During most class meetings we will discuss visualization research papers. You will have (1) read and provided (2) written feedback on the papers prior to class so that we can have an engaged discussion during class. Please submit your written feedback on [Canvas](https://canvas.harvard.edu/courses/56265/discussion_topics) in the respective discussion thread. 
 
 
 What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post by [Jessica Hullman](https://users.eecs.northwestern.edu/~jhullman/) about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
