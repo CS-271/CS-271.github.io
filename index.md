@@ -13,12 +13,12 @@ order: 1
 **Location:** MD 119  
 **Instructor:** Johanna Beyer  
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
-**Recommended Preparation:** CS 171, CS 179, CS 279, or some data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
+**Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
 **Office Hours:** Wed 3pm, Maxwell-Dworkin, Room 211
 
 
 ### Course Description
-This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include: interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
+This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization, and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
 Students will work on a semester-long visualization project that will allow them to visualize their own data sets. We will take a structured approach on how to read, analyze, present, and discuss research topics. Furthermore, we will employ peer-feedback and formal design critiques to analyze each other's work.
 
 
@@ -26,32 +26,32 @@ Students will work on a semester-long visualization project that will allow them
 
 After completion of the course you will be able to:
 
-- Read, understand, and disseminate current visualization research in the context of prior research in visualization
+- Read, understand, and disseminate current visualization research results
 - Analyze, discuss, and present visualization research papers to a computer science/engineering audience
 - Critically evaluate visualizations and suggest improvements and refinements
 - Create a stand-alone visualization project, building on previous work and insights gained in visualization research over the last decades
-- Write a short research paper about your own visualization project
+- Write a short research paper about your visualization project
 
 ### Course Structure
 Classes will meet twice a week for in-class discussion of assigned reading, group-based work (e.g., design critiques), and project feedback. Students will take turns presenting papers and leading class discussion. 
 Active participation and preparation for class is expected and will contribute to your final grade.
-Each student is expected to work on a semester-long visualization project that will be defined within the first two weeks of class. Students will disseminate the results of their semester project in a short visualization research paper.
+Each student is supposed to work on a semester-long visualization project that will be defined within the first two weeks of class. Students will disseminate the results of their semester project in a short visualization research paper.
 
 ### Required Reading
 We will be using Tamara Munzner's book 'Visualization Analysis & Design' in this course. You can access the online version of the book via HOLLIS [here](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=01HVD_ALMA512241559820003941&context=L&vid=HVD2&search_scope=everything&tab=everything&lang=en_US).
 
 ### Course Policies
-**Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. Keep in mind that since our class is heavily based on interactive discussions, it is not just you who misses the discussed material, but you also negatively influence the learning outcome of your peers! You are allowed two excused absences per semester. To receive credit for attendance, you must arrive on time.  
+**Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. Keep in mind that our class is heavily based on interactive discussions. In your absense you will not only miss the discussed material, but you also negatively influence the learning outcome of your peers! You are allowed two excused absences per semester. To receive credit for attendance, you must arrive on time.  
 **Active participation is expected!** Active participation and preparation for class are expected and will contribute to your final grade.  
-**No open laptops!** We only allow device usage during activities that require devices. At all other times, you should not be using your device.
+**No open laptops!** We only allow device usage during activities that require devices. 
 
 ### Grading
-Your course grade will be based on your semester project (30%), visualization paper (20%) and preparation for and participation in class (50%). This includes class participation, teamwork, adherence to deadlines, collaboration acknowledgements, timely arrival to your class, etc.
+Your course grade will be based on your semester project (30%), visualization paper (20%) and preparation for and participation in class (50%). This includes class participation, teamwork, meeting of deadlines, collaboration acknowledgements, timely arrival to your class, etc.
 
 ### Academic Integrity
-We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to adhere to the honor code and our policies may result in serious penalties, up to and including automatic failure in the course and reference to the ad board.
+We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to comply with the honor code and our policies may result in serious penalties, up to and including automatic failure in the course, and reference to the ad board.
 
-You may discuss your project and homework with other people, but you are expected to be intellectually honest and give credit where credit is due. 
+You may discuss your project and homework with other people, but you are expected to be intellectually honest, transparent, and give credit where credit is due. 
 You may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers. 
 
 
@@ -61,7 +61,7 @@ I ask that you engage in discussion with care and empathy for the other members 
 
 
 ### Accommodations for students with disabilities
-Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the Accessible Education Office (AEO) and speak with the professor by the end of the second week of the term. Failure to do so may result in the instructor’s inability to respond in a timely manner. All discussions will remain confidential, although Faculty are invited to contact AEO to discuss appropriate implementation
+Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the Accessible Education Office (AEO) and speak with the professor by the end of the second week of the term. Failure to do so may result in the instructor’s inability to respond in a timely manner. All discussions will remain confidential, although Faculty are invited to contact AEO to discuss appropriate implementation.
 
 
 <!--

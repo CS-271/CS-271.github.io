@@ -8,9 +8,10 @@ order: 3
 
 
 ### Paper reading and discussion:
-During most class meetings we will discuss visualization research papers. You will have read and provided written feedback on the papers prior to class so that we can have an engaged discussion during class. 
+During most class meetings we will discuss visualization research papers. You will have (1) read and provided (2) written feedback on the papers prior to class so that we can have an engaged discussion during class. 
 
-What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
+
+What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post by [Jessica Hullman](https://users.eecs.northwestern.edu/~jhullman/) about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
 
 The Harvard library provides a way to [get access to an article behind a paywall](https://library.harvard.edu/services-tools/check-harvard-library-bookmark).
 
@@ -19,7 +20,7 @@ The Harvard library provides a way to [get access to an article behind a paywall
 Here are some guidelines about what we will expect from you in this class:
 
 **How to read and discuss a paper:**  
-When you read a research paper, you should ask yourself what the *contribution of the paper* is and *analyze its contribution*. Here are some main pointers to keep in mind, especially for your written summary:
+When you read a research paper, you should extract and analyze the *contribution of the paper*. A *contribution* is given if another researcher can learn something new and important from the work that is applicable to other scenarios. Here are some main pointers to keep in mind, especially for your written summary:
 
 * What is the research problem the paper attempts to address? What is the motivation?
 * What are the claimed contributions of the authors? What do you consider to be the main contribution? (In many cases this hopefully overlaps, but there might be some cases where you feel differently.)
@@ -32,7 +33,7 @@ When you read a research paper, you should ask yourself what the *contribution o
 In our in-class discussions we will collect and debate the different views on the papers you have read. Every student is expected to moderate and lead a discussion once to twice a semester.
 
 **How to present your research:**  
-Throughout the semester you will have to give three talks about your semester project, as well as give one introductory talk on a selected visualization topic. 
+Throughout the semester you will have to give three presentations about your semester project, as well as give one introductory talk on a selected visualization topic. 
 
 Here are some pointers for your presentations: 
  
@@ -47,20 +48,18 @@ Your in-class presentations are opportunities to develop your presentation skill
 **How to write a paper:**   
 When writing a research paper, your goals are to:
 
-* Communicate your ideas and persuade people of your approach
-* Describe experiments and results
-* Allow others to reproduce your results precisely
-* Be honest
+* Communicate your ideas and persuade people of your approach.
+* Describe and discuss experiments and results.
+* Allow others to reproduce your results precisely.
+* Be honest.
 
 There is a nice collection of tips on [how to write a CS research paper](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf) by Fredo Durant at MIT.
 
 **How to review a paper draft:**  
-When reviewing the paper draft of fellow student, please be professional and polite. Try to be as specific as possible with your feedback and stay positive! You should thoroughly read and discuss the paper based on the points listed above. Also evaluate the pros and cons of the following points:
+When reviewing the paper draft of fellow students, please be professional and polite. Try to be as specific as possible with your feedback and stay positive! You should thoroughly read and discuss the paper based on the points listed above. Also evaluate the pros and cons of the following points:
 
-* Importance of the problem
-* Novelty of solution
-* Quality of results
-* Thoroughness of result analysis
-* Quality of writing
-
-
+* Importance of the problem.
+* Novelty of solution.
+* Quality of results.
+* Thoroughness of result analysis.
+* Quality of writing and presention.
