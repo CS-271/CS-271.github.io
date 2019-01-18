@@ -11,7 +11,7 @@ order: 1
 **Term:** 2019 Spring  
 **Meeting Time:** Mon/Wed 1:30-2:45pm  
 **Location:** MD 119  
-**Instructor:** Johanna Beyer  
+**Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
 **Office Hours:** Wed 3pm, Maxwell-Dworkin, Room 211
@@ -52,12 +52,12 @@ Your course grade will be based on your semester project (30%), visualization pa
 We expect you to adhere to the [Harvard Honor Code](http://honor.fas.harvard.edu/honor-code) at all times. Failure to comply with the honor code and our policies may result in serious penalties, up to and including automatic failure in the course, and reference to the ad board.
 
 You may discuss your project and homework with other people, but you are expected to be intellectually honest, transparent, and give credit where credit is due. 
-You may use third-party libraries and example code, so long as the material is available to all students in the class and you give proper attribution. Do not remove any original copyright notices and headers. 
+You may use third-party libraries and example code, so long as the material is available to all students in the class, you give proper attribution, and the general copyright rules are met. Do not remove any original copyright notices and headers. 
 
 
 ### Diversity and Inclusion
-I will work to create a learning environment in our class that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, etc. 
-I ask that you engage in discussion with care and empathy for the other members in the classroom. Treat others how you would like to be treated. Aim to disagree without becoming disagreeable. If something was said in class that made you feel uncomfortable, please talk to me about it. 
+We will work to create a learning environment in our class that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, culture, etc. 
+We ask you to engage in discussion with care and empathy for the other members in the classroom. Treat others how you would like to be treated. Aim to disagree without becoming disagreeable. If something was said in class that made you feel uncomfortable, please talk to us about it. 
 
 
 ### Accommodations for students with disabilities

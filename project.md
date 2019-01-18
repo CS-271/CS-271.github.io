@@ -12,6 +12,8 @@ The goal of the semester project is to perform visualization research. You will 
 
 The project consists of two main parts, the actual visualization project, including status presentations, and the final write-up in form of a research paper. You should document the progress of your project in a 'project notebook'. 
 
+Successful overall projects (visualization, paper, video) are will be submitted to the [IEEE VIS](ieeevis.org) or an appropriate other venue.
+
 ### Project Timeline:
 The projects will go through three main phases:
 
@@ -19,25 +21,25 @@ The projects will go through three main phases:
 
 Deliverables: 
 
-* **Sunday, February 10:** Written project proposal (see Canvas submission for more details).
-* **Week 3:** Project presentation 1 in class.
+* **Sunday, February 10:** Written project proposal (3-5 pages; see Canvas submission for more details).
+* **Week 3:** Project presentation 1 in class (~15 minutes).
 
 ***Main project phase:*** In this phase you will do all the visual designs, sketching, implementation, and evaluation of your project. 
 
 Deliverables:
 
-* **Sunday, March 10:** Visualization Paper Draft, Part 1 (Abstract, Introduction, Related Work). 
-* **Sunday, March 17:** Revised Paper Draft
+* **Sunday, March 10:** Visualization Paper Draft, Part 1 (Abstract, Introduction, Related Work; ~10-20 references). 
+* **Sunday, March 17:** Revised Paper Draft.
 * **Sunday, March 24:** 1st milestone: Submission visualization prototype (and project notebook). 
-* **Week 9:** Project presentation 2 in class and peer feedback.
+* **Week 9:** Project presentation 2 in class (~15 minutes) and peer feedback.
 
 ***Project delivery:*** In the last phase you will submit and present your final projects.
 
 Deliverables:
 
-* **Sunday, April 21:** Final submission of visualization prototype (and project notebook)
-* **Week 13:** Final project presentations
-* **Sunday, April 28th:** Final paper submission
+* **Sunday, April 21:** Final submission of visualization prototype (and project notebook).
+* **Week 13:** Final project presentations (~15 minutes).
+* **Sunday, April 28th:** Final paper submission (4 pages + 1 page of references).
 
 
 ### Expectations:
