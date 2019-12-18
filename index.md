@@ -7,6 +7,7 @@ order: 1
 
 
 ### Course Information
+
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
 **Term:** 2020 Spring  
 **Meeting Time:** Mon/Wed 4:30-5:45pm  
