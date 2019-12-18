@@ -8,13 +8,13 @@ order: 1
 
 ### Course Information
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
-**Term:** 2019 Spring  
-**Meeting Time:** Mon/Wed 1:30-2:45pm  
+**Term:** 2020 Spring  
+**Meeting Time:** Mon/Wed 4:30-5:45pm  
 **Location:** MD 119  
 **Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
-**Office Hours:** Wed 3pm, Maxwell-Dworkin, Room 211
+**Office Hours:** Wed 3:30pm, Maxwell-Dworkin, Room 211
 
 
 ### Course Description
