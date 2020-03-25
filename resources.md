@@ -32,7 +32,7 @@ Here are some useful links and resources:
 * [Writing research papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) (Aaron Hertzmann)
 
 ### How to give a presentation:
-* [How to give a dynamic scientific presentation](https://www.elsevier.com/connect/how-to-give-a-dynamic-scientific-presentation) (Marilynn Larkin)
+* [Communicating as a Scientist](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/communicating-as-a-scientist-14238273/)  
 * [How to give a great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) (Simon Peyton Jones)
 * [Toastmasters website](http://www.toastmasters.org/)
 * [Harvard Toastmasters Club](https://harvardtoastmastersclub.org/)
