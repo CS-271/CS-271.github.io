@@ -15,31 +15,31 @@ The project consists of two main parts, the actual visualization project, includ
 Successful overall projects (visualization, paper, video) are will be submitted to the [IEEE VIS](ieeevis.org) or an appropriate other venue.
 
 ### Project Timeline:
-The projects will go through three main phases:
+The projects will go through three main phases. Detailed deadlines will be posted on Canvas.
 
 ***Project kick-off:*** The main goal in the first phase is to decide on a project topic, do literature research, find data, define the scope of the project, and define the main goals and challenges. 
 
 Deliverables: 
 
-* **Sunday, February 9:** Written project proposal (3-5 pages; see Canvas submission for more details).
-* **Week 3:** Project presentation 1 in class (~15 minutes).
+* **Around Week 3:** Written project proposal (3-5 pages; see Canvas submission for more details).
+* Project presentation 1 in class (~15 minutes).
 
 ***Main project phase:*** In this phase you will do all the visual designs, sketching, implementation, and evaluation of your project. 
 
 Deliverables:
 
-* **Sunday, March 8:** Visualization Paper Draft, Part 1 (Abstract, Introduction, Related Work; ~10-20 references). 
-* **Sunday, March 15:** Revised Paper Draft.
-* **Sunday, March 22:** 1st milestone: Submission visualization prototype (and project notebook). 
-* **Week 9:** Project presentation 2 in class (~15 minutes) and peer feedback.
+* **Weeks 6-8:** Visualization Paper Draft, Part 1 (Abstract, Introduction, Related Work; ~10-20 references). 
+* Revised Paper Draft.
+* 1st milestone: Submission visualization prototype (and project notebook). 
+* Project presentation 2 in class (~15 minutes) and peer feedback.
 
 ***Project delivery:*** In the last phase you will submit and present your final projects.
 
 Deliverables:
 
-* **Sunday, April 19:** Final submission of visualization prototype (and project notebook).
-* **Week 14:** Final project presentations (~15 minutes).
-* * **Sunday, May 3rd:** Final paper submission (4 pages + 1 page of references).
+* **Around Week 14:** Final submission of visualization prototype (and project notebook).
+* Final project presentations (~15 minutes).
+* Final paper submission (4 pages + 1 page of references).
 
 
 ### Expectations:

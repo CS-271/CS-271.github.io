@@ -9,14 +9,13 @@ order: 1
 ### Course Information
 
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
-**Term:** 2020 Spring  
-**Meeting Time:** Mon/Wed 4:30-5:45pm  
-**Location:** MD 119  
+**Term:** 2021 Spring  
+**Meeting Time:** Mon/Wed 1:30-2:45pm  
+**Location:** Virtual  
 **Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
-**Office Hours:** Wed 3:30pm, Maxwell-Dworkin, Room 211
-
+**Office Hours:** Always after class, or message me to set up a meeting outside of class times!
 
 ### Course Description
 This course covers advanced topics in data visualization. Over the course of the semester, we will examine seminal works and recent state-of-the-art research in information visualization, scientific visualization, and visual analytics. Students are encouraged to bring in ongoing or related research. Topics covered in this class include interaction, storytelling, evaluation, color, volume rendering, vector field visualization, visualization in sciences, big data visualization, uncertainty visualization, and visualization for machine learning.
@@ -44,7 +43,7 @@ We will be using Tamara Munzner's book 'Visualization Analysis & Design' in this
 ### Course Policies
 **Attendance is mandatory!** If you have to miss a class meeting, you have to let the instructor know in advance. Keep in mind that our class is heavily based on interactive discussions. In your absense you will not only miss the discussed material, but you also negatively influence the learning outcome of your peers! You are allowed two excused absences per semester. To receive credit for attendance, you must arrive on time.  
 **Active participation is expected!** Active participation and preparation for class are expected and will contribute to your final grade.  
-**No open laptops!** We only allow device usage during activities that require devices. 
+**Cameras must be on!** Interactive discussions are a lot nicer if we can see each other. Feel free to put on a virtual background in Zoom, but please have your camera turned on.
 
 ### Grading
 Your course grade will be based on your semester project (30%), visualization paper (20%) and preparation for and participation in class (50%). This includes class participation, teamwork, meeting of deadlines, collaboration acknowledgements, timely arrival to your class, etc.
