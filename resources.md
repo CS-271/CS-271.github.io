@@ -11,7 +11,7 @@ Here are some useful links and resources:
 ### Visualization conferences:
 * [IEEE Visualization](http://ieeevis.org)
 * [EuroVis](https://www.eurovis.org/) (EG/VGTC Conference on Visualization)
-* [IEEE PacificVis](www.pvis.org/)
+* [IEEE PacificVis](http://www.pvis.org/)
 
 ### Visualization research:
 * [What is vis research?](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658) (Jessica Hullman)
@@ -19,7 +19,7 @@ Here are some useful links and resources:
 
 ### How to read a paper:
 * [How to read a CS research paper?](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) (Philip Fong)
-* [How to read a visualization research paper](https://cs.swan.ac.uk/~csbob/research/how2read/laramee09how2read.pdf) (Robert S. Laramee)
+* [How to read a visualization research paper](http://cs.swan.ac.uk/~csbob/research/how2read/laramee09how2read.pdf) (Robert S. Laramee)
 * [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper) (Natalia Rodriguez)
 
 ### How to review a paper:

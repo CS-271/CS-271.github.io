@@ -8,10 +8,10 @@ order: 3
 
 
 ### Paper reading and discussion:
-During most class meetings we will discuss visualization research papers. You will have (1) read and provided (2) written feedback on the papers prior to class so that we can have an engaged discussion during class. Please submit your written feedback on [Canvas](https://canvas.harvard.edu/courses/56265/discussion_topics) in the respective discussion thread. 
+During most class meetings we will discuss visualization research papers. You will have (1) read and provided (2) written feedback on the papers prior to class so that we can have an engaged discussion during class. Please submit your written feedback on [Canvas](https://canvas.harvard.edu/courses/102032/discussion_topics) in the respective discussion thread.
 
 
-What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post by [Jessica Hullman](https://users.eecs.northwestern.edu/~jhullman/) about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
+What kind of papers will we be covering in this course? In short, different types of visualization research. Here is a short medium post by [Jessica Hullman](https://scholar.google.com/citations?user=OLa9EKsAAAAJ&hl=en) about ['What is visualization research?'](https://medium.com/multiple-views-visualization-research-explained/what-is-visualization-research-what-should-it-be-8840a9ba658).
 
 The Harvard library provides a way to [get access to an article behind a paywall](https://library.harvard.edu/services-tools/check-harvard-library-bookmark).
 
@@ -33,12 +33,12 @@ When you read a research paper, you should extract and analyze the *contribution
 In our in-class discussions we will collect and debate the different views on the papers you have read. Every student is expected to moderate and lead a discussion once to twice a semester.
 
 **How to present your research:**  
-Throughout the semester you will have to give three presentations about your semester project, as well as give one introductory talk on a selected visualization topic. 
+Throughout the semester you will have to give three presentations about your semester project, as well as give one introductory talk on a selected visualization topic.
 
-Here are some pointers for your presentations: 
- 
+Here are some pointers for your presentations:
+
 * Adhere to the set time limit! (Make sure you know exactly how much time you have for your presentation.)
-* Keep your audience in mind! The focus should not be on what and how much you present, but what your audience will remember! 
+* Keep your audience in mind! The focus should not be on what and how much you present, but what your audience will remember!
 * Give the audience an intuitive feel about your idea and excite them! Make them glad they came to your talk!
 * Get the level of detail right! Most young researchers put in too many low-level details and do not get the big picture across. The goal is not to impress the audience with your brain power but to make them eager to know more about your research.
 * Practice your presentation before class! Speak it out loud (that is essential!), exactly as you are planning to give it in class.
