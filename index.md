@@ -15,7 +15,7 @@ order: 1
 **Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Teaching Fellow:** Carolina Nobre  
-**Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites!  
+**Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites.  
 **Office Hours:** Always after class, or message me to set up a meeting outside of class times!
 
 ### Course Description
