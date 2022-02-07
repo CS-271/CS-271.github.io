@@ -11,7 +11,7 @@ order: 1
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
 **Term:** 2022 Spring  
 **Meeting Time:** Mon/Wed 3:45-5:00pm  
-**Location:** SEC 1.413 (150 Western Ave, Boston)  
+**Location:** SEC 1.402 (150 Western Ave, Boston)  
 **Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
 **Teaching Fellows:** Carolina Nobre, Zhu-tian Chen  
