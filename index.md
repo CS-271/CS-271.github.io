@@ -11,10 +11,10 @@ order: 1
 **Harvard College/Graduate School of Arts and Sciences:** CS 271 - Topics in Data Visualization  
 **Term:** 2024 Spring  
 **Meeting Time:** Mon/Wed 9:45-11:00am  
-**Location:** SEC 1.307 (150 Western Ave, Boston)  
+**Location:** SEC 1.413 (150 Western Ave, Boston)  
 **Instructor:** Johanna Beyer <jbeyer@g.harvard.edu>
 (pronunciation: yo-haan-nah; pronouns: she/her/hers)  
-**Teaching Fellows:** TBA
+**Teaching Fellows:** Simon Warchol <simonwarchol@g.harvard.edu>
 **Recommended Preparation:** CS 171, CS 179, CS 279, or data visualization experience. Please contact course staff if you are unsure about the course pre-requisites.  
 **Office Hours:** Always after class, or message me to set up a meeting outside of class times!
 
